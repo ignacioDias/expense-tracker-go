@@ -1,0 +1,23 @@
+{
+  "nextID": 3,
+  "expenses": {
+    "1": {
+      "id": 1,
+      "description": "Lomito",
+      "amount": 1000,
+      "date": "2026-02-18T00:49:10.155732844-03:00",
+      "category": "others"
+    },
+    "2": {
+      "id": 2,
+      "description": "Lomito",
+      "amount": 1000,
+      "date": "2026-02-18T00:49:15.268274984-03:00",
+      "category": "others"
+    }
+  },
+  "maxBudgetPerMonth": 1000,
+  "currentBudget": -1000,
+  "currentMonth": 2,
+  "currentYear": 2026
+}
